@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tutorial4-etc5523",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 16, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nTest Page\n\n\n\n\n\n\nnews review\n\n\n\n\n\n\n\n\n\nAug 16, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 13, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/test/index.html",
+    "href": "posts/test/index.html",
+    "title": "Test Page",
+    "section": "",
+    "text": "Global Markets React to Economic Data\nGlobal financial markets saw mixed reactions today as investors digested the latest economic data from the United States and Europe. In the U.S., the latest employment report showed stronger-than-expected job growth, which initially boosted confidence in the economy. However, concerns over rising inflation and the possibility of the Federal Reserve increasing interest rates led to volatility in the stock market. In Europe, the European Central Bank’s decision to keep interest rates unchanged was met with cautious optimism, though worries about economic slowdowns in key economies like Germany persisted.\n\n\nExtreme Weather Events Impact Communities Worldwide\nCommunities across the globe are grappling with extreme weather conditions, highlighting the increasing impact of climate change. In Asia, torrential rains have led to severe flooding in several countries, including India and Bangladesh, displacing thousands of people and causing significant damage to infrastructure. Meanwhile, in the United States, wildfires continue to ravage parts of the West Coast, exacerbated by prolonged drought conditions. These events have reignited debates over climate policy, with many calling for more aggressive action to mitigate the effects of global warming.\n\n\nBreakthrough in Cancer Research Offers New Hope\nScientists have announced a significant breakthrough in cancer research that could lead to more effective treatments for certain types of cancer. Researchers at a leading university revealed that they have developed a new drug that targets cancer cells more precisely, reducing the harmful side effects associated with traditional chemotherapy. Early trials have shown promising results, with patients experiencing fewer side effects and better outcomes. This development is being hailed as a potential game-changer in the fight against cancer, offering new hope to millions of patients worldwide."
+  }
+]
